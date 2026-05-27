@@ -1,0 +1,32 @@
+# === macOS Trash ===
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+._*
+
+# === IDEs (IntelliJ / VS Code) ===
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# === Java / Spring Boot (Maven) ===
+target/
+*.jar
+*.war
+*.ear
+.mvn/wrapper/maven-wrapper.jar
+
+# === Angular / Node ===
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
