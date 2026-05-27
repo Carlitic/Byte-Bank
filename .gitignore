@@ -13,6 +13,7 @@ Icon_
 .settings/
 .classpath
 .project
+.antigravitycli/
 
 # === Java / Spring Boot (Maven) ===
 target/
